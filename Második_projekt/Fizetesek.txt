@@ -1,0 +1,6 @@
+nev,kor,cim,fizetes
+Baráczius Zsuzsanna,61,Budapest,450000
+Koza József,31,Budapest,350000
+Tóth Károly,55,Szigetszentmárton,550000
+Tóth Alexandra,25,Budapest,250000
+Tóth Károlyné,87,Szigetszentmárton,112000

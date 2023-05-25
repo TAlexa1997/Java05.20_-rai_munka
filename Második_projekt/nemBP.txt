@@ -1,0 +1,2 @@
+Fizetesek{nev=Tóth Károly, kor=55, cim=Szigetszentmárton, fizetes=550000.0}
+Fizetesek{nev=Tóth Károlyné, kor=87, cim=Szigetszentmárton, fizetes=112000.0}
